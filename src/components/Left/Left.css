@@ -1,0 +1,11 @@
+.allCart {
+  /* display: grid;
+  grid-template-columns: repeat(3, 1fr); */
+}
+.Button {
+  padding: 8px 74px;
+  border: 0;
+  background-color: steelblue;
+  border-radius: 3px;
+  color: white;
+}

@@ -1,0 +1,20 @@
+.Navbar {
+  background-color: black;
+  display: flex;
+  align-items: center;
+}
+.Navbar nav {
+  line-height: 49px;
+
+  text-align: left;
+}
+.Navbar nav a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+  font-size: 17px;
+  padding: 13px;
+}
+.Navbar nav a:hover {
+  background-color: lightgray;
+}

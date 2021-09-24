@@ -1,0 +1,10 @@
+.inputfild {
+  padding: 4px;
+  margin-left: 43%;
+}
+.inputfild input {
+  width: 350%;
+  padding: 2px;
+  border-radius: 2px;
+  border: 0;
+}

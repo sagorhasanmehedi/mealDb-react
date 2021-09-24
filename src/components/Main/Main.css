@@ -1,0 +1,9 @@
+.mainsection {
+  display: grid;
+  grid-template-columns: 9fr 2fr;
+  margin-top: 30px;
+  grid-gap: 20px;
+}
+.Lefrcard {
+  padding: 0px 80px;
+}
