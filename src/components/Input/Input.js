@@ -1,10 +1,14 @@
 import React from "react";
 import "./Input.css";
 
-const Input = () => {
+const Input = (props) => {
   return (
     <div className="inputfild">
-      <input type="text" placeholder="serch meal by name" />
+      <input
+        onChange={props.inputfild}
+        type="text"
+        placeholder="serch meal by name"
+      />
     </div>
   );
 };

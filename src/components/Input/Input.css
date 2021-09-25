@@ -1,10 +1,11 @@
 .inputfild {
-  padding: 4px;
-  margin-left: 43%;
+  text-align: center;
 }
 .inputfild input {
-  width: 350%;
-  padding: 2px;
+  width: 28%;
+  padding-left: 13px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   border-radius: 2px;
-  border: 0;
+  border: 1px solid gray;
 }

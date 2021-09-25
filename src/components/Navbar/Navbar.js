@@ -1,5 +1,4 @@
 import React from "react";
-import Input from "../Input/Input";
 import "./Navbar.css";
 
 const Navbar = () => {
@@ -11,7 +10,6 @@ const Navbar = () => {
         <a href="/chaking">ABOUT</a>
         <a href="/chaking">OFFICE</a>
       </nav>
-      <Input />
     </div>
   );
 };

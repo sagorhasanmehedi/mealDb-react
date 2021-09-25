@@ -3,7 +3,7 @@ import "./Right.css";
 
 const Right = (props) => {
   const { buttondata } = props;
-  console.log(buttondata);
+
   return (
     <div className="rightcart">
       {buttondata.map((meal) => (

@@ -1,3 +1,10 @@
 .rightcart {
-  background-color: lightsalmon;
+  border: 1px solid lightgray;
+  padding: 30px;
+  height: 61%;
+
+  text-align: left;
+  overflow: hidden;
+  position: fixed;
+  width: 14%;
 }
